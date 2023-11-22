@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Java Script and NodeJS 
 - 💞️ I’m looking to collaborate on ways to intigrate applications into my portfolio page
 - 📫 How to reach me djflint39@gmail.com
+- 🎶 My Store https://flintcraftdesign.etsy.com
 
 <!---
 djflintcraft/djflintcraft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
