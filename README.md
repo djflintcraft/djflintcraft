@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @djflintcraft
-- 👀 I’m interested in cooking, fishing, learning new areas of web Dev.
-- 🌱 I’m currently learning Java Script and NodeJS 
-- 💞️ I’m looking to collaborate on ways to intigrate applications into my portfolio page
+- 👋 Hi, dj here,
+- 👀 A few things I enjoy doing; cooking, fishing, learning new languages of web Dev.
+- 🌱 HTML, CSS, Java Script, NodeJS and I will update as i go.
+- 💞️ currently studying & slowly building a personal portfolio.
 - 📫 How to reach me djflint39@gmail.com
 - 🎶 My Store https://flintcraftdesign.etsy.com
 
