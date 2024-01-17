@@ -1,7 +1,8 @@
 - 👋 Hi, dj here,
 - 👀 A few things I enjoy doing; cooking, fishing, learning new languages of web Dev.
 - 🌱 HTML, CSS, Java Script, NodeJS and I will update as i go.
-- 💞️ currently studying & slowly building a personal portfolio.
+- Currently I cook in a kitchen to make a paycheck and am looking for another side hustle that I can make some passive income from.
+- 💞️ In tbe evenings I study & practice coding. My go to while practicing is a MERN FULL STACK BOOTCAMP I purchaced on UDEMY. by, Masynctech Coding School. 
 - 📫 How to reach me djflint39@gmail.com
 - 🎶 My Store https://flintcraftdesign.etsy.com
 
